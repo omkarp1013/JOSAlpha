@@ -1,5 +1,5 @@
 # JOS-Alpha
-This repository contains an alpha (trading strategy) submitted to the UMD Smith Investment Fund's alpha competition. 
+This repository contains an alpha (trading strategy) submitted to the UMD Smith Investment Fund's alpha competition. JOS = James, Omkar, Suryaa.
 
 #### Team Members
 - Suryaa Rajinikanth | [surycuh@umd.edu](malito:surycuh@terpmail.umd.edu)

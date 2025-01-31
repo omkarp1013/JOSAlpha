@@ -3,5 +3,5 @@ This repository contains an alpha (trading strategy) submitted to the UMD Smith 
 
 #### Team Members
 - Suryaa Rajinikanth | [suryaa@gatech.edu](malito:suryaa@gatech.edu)
-- James Zhang | [jzhang72@umd.edu](mailto:jzhang72@terpmail.umd.edu)
-- Omkar Pathak | [omkarp07@umd.edu](mailto:omkarp07@terpmail.umd.edu)
+- James Zhang | [jzhang72@terpmail.umd.edu](mailto:jzhang72@terpmail.umd.edu)
+- Omkar Pathak | [omkarp07@terpmail.umd.edu](mailto:omkarp07@terpmail.umd.edu)
